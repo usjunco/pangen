@@ -66,3 +66,7 @@ pangenome.pan: contains the resulted pangenome with unique and dispensable piece
 
 /pangenome_unique/ folder: contains a pangenome file for each class with only its unique pangenome pieces.
 
+# Acknowledgements
+This research was partially supported by grants by PAPIIT-DGAPA-IN230523 awarded to BT. The first author gratefully acknowledges the scholarship provided by CONAHCYT. We also extend our sincere appreciation to the National Autonomous University of Mexico (UNAM) for granting access to the MIZTLI supercomputer, supported by the General Directorate of Computing and Information and Communication Technologies (DGTIC) through project LANCAD-UNAM-DGTIC-350. Lastly, we wish to thank Jerome Verleyen, Juan Manuel Hurtado, and Roberto Bahena from UNAM’s Instituto de Biotecnología for their indispensable assistance with computational support.
+
+
