@@ -1,8 +1,10 @@
 # PanGen-InfluenzaA
-Sequence based Pangenome Generator tool for groups of sequences that share types. 
-You can run this software in your local machine by following the instructions in the [infa_main.ipynb ](https://github.com/mostume222/inf-test/blob/master/infa_main.ipynb) notebook, the notebook can run in your local machine or in google colab by pressing the "Open in Colab" option.
 
-We recomend ALWAYS running PanGen using a jupyter notebook but if you wish to run PanGen in your linux local machine without a notebook, please follow the instructions bellow:
+PanGen is a sequence-based pangenome generator tailored for groups of sequences that share types — ideal for analyzing Influenza A genomes grouped by subtypes or hosts. This software performs a clustering analysis to obtain unique and dispensable pieces within the uploaded group of sequences. 
+
+You can run this software locally by following the steps outlined in the infa_main.ipynb notebook  [infa_main.ipynb ](https://github.com/mostume222/inf-test/blob/master/infa_main.ipynb). This notebook is designed to work both on your local machine and directly on Google Colab by clicking the "Open in Colab" badge.
+
+We strongly recommend running PanGen using a jupyter notebook but if you wish to run PanGen in your linux local machine without a notebook, please follow the instructions bellow:
 
 # Step 1. Install dependencies
 
