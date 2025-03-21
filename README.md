@@ -1,4 +1,4 @@
-# PanGen 
+# PanGen-InfluenzaA
 Sequence based Pangenome Generator tool for groups of sequences that share types. 
 You can run this software in your local machine by following the instructions in the [infa_main.ipynb ](https://github.com/mostume222/inf-test/blob/master/infa_main.ipynb) notebook, the notebook can run in your local machine or in google colab by pressing the "Open in Colab" option.
 
